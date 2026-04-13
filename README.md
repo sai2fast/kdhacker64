@@ -29,8 +29,8 @@ Overflow data is attacker-controlled via string content. Adjacent kernel pool al
 
 **SHA256:** `597eff2718073b11da3d4bcade9a03fb4684f9be57d184fce65ac70a2ef07246`  
 **Signed by:** Kingsoft Corporation (EV certificate)  
-**LOLDrivers:** Not yet listed  
-**CVE:** None assigned
+**LOLDrivers:** [magicsword-io/LOLDrivers#309](https://github.com/magicsword-io/LOLDrivers/issues/309)  
+**CVE:** Requested (MITRE)
 
 ## Usage
 
